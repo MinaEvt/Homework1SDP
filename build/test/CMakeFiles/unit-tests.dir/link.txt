@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/unit-tests.dir/test-expression.cpp.o" -o unit-tests  ../src/expression-lib/libexpression-lib.a ../_deps/catch2-build/src/libCatch2Main.a ../_deps/catch2-build/src/libCatch2.a 
